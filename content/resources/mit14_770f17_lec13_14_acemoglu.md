@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-770-introduction-to-political-economy-fall-2017/e1ec3098cfa6ef3ff8c77a55c85b1587_MIT14_770F17_lec13_14_acemoglu.pdf
+file: /media/courses/14-770-introduction-to-political-economy-fall-2017/e1ec3098cfa6ef3ff8c77a55c85b1587_MIT14_770F17_lec13_14_acemoglu.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Slides
+parent_type: CourseSection
 resourcetype: Document
 title: '14.770 F17 Acemoglu Lectures 13 and 14: Economic Policy Under Nondemocratic
   Institutions'
