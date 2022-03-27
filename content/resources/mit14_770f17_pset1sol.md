@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Assignments and Exam
 parent_type: CourseSection
+parent_uid: 6e3b25a5-9349-0138-f7ae-8754ee8de36a
 resourcetype: Document
 title: 14.770 F17 Problem Set 1 Solutions
 uid: 0ad5cb14-f233-8e0e-b901-178733f90fe3

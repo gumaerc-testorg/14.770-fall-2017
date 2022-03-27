@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: a6da3ad5-7888-61c7-efc5-346483726198
 resourcetype: Document
 title: '14.770 F17 Acemoglu Lectures 6 and 7: Electoral Politics Gone Wrong'
 uid: 42f6748f-0b57-b340-6a81-5376f1e9083f

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: a6da3ad5-7888-61c7-efc5-346483726198
 resourcetype: Document
 title: '14.770 F17 Acemoglu Lectures 8 and 9: Political Agency'
 uid: 1cec57da-7b16-8093-7b1b-1add705d35db
