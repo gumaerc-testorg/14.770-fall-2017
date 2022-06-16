@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/14-770-introduction-to-political-economy-fall-2017/1cf0648a97f89ecbf1235bd716a4bd2d_MIT14_770F17_finalexam.pdf
+file: /courses/14-770-introduction-to-political-economy-fall-2017/1cf0648a97f89ecbf1235bd716a4bd2d_MIT14_770F17_finalexam.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
