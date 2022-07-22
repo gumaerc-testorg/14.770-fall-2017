@@ -5,6 +5,7 @@ file: /courses/14-770-introduction-to-political-economy-fall-2017/42f6748f0b57b3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
