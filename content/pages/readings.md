@@ -785,7 +785,7 @@ Fisman, Raymond and Yongxiang Wang (2015). "[The Mortality Cost of Political Con
 
 ### Elections as a Disciplinary Device
 
-\* Banerjee, Abhijit, Selvan Kumar, Rohini Pande and Felix Su (2011). "[Do Informed Voters Make Better Choices? Experimental Evidence from Urban India" (PDF - 4.6MB)](https://scholar.harvard.edu/files/rpande/files/do_informed_voters_make_better_choices.pdf).
+\* Banerjee, Abhijit, Selvan Kumar, Rohini Pande and Felix Su (2011). "[Do Informed Voters Make Better Choices? Experimental Evidence from Urban India" (PDF - 4.6MB)](https://www.povertyactionlab.org/sites/default/files/research-paper/142%20-%20informed%20voters%20Nov2011.pdf).
 
 \* Ferraz, Claudio and Frederico Finan (2008). "[Exposing Corrupt Politicians: The Effects of Brazil's Publicly Released Audits and Electoral Outcomes](https://doi.org/10.1162/qjec.2008.123.2.703)", *Quarterly Journal of Economics* 123(2): 703-745.
 
