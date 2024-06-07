@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding introduction to political
   economy: Problem set solutions.'
 file: /courses/14-770-introduction-to-political-economy-fall-2017/be57367c32fd8f50921e4ee48ee13bde_MIT14_770F17_pset5sol.pdf
+file_size: 199779
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

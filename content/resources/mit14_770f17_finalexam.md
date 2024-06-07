@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-770-introduction-to-political-economy-fall-2017/1cf0648a97f89ecbf1235bd716a4bd2d_MIT14_770F17_finalexam.pdf
+file_size: 62200
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
