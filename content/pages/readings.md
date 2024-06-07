@@ -77,7 +77,7 @@ Battaglini, Marco, Rebecca B. Morton and Thomas R. Palfrey (2008). "[Information
 Votes and Political Decisions in Practice
 {{< tdclose >}}{{< tdopen >}}
 
-\* Spenkuch, Jörg L. (2017). "[Expressive vs. Pivotal Voters: An Empirical Assessment" (PDF - 2MB)](http://www.kellogg.northwestern.edu/faculty/spenkuch/research/voting.pdf). 
+\* Spenkuch, Jörg L. (2017). "[Expressive vs. Pivotal Voters: An Empirical Assessment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2170997)." 
 
 Fujiwara, Thomas (2011). "[A Regression Discontinuity Test of Strategic Voting and Duverger's Law](http://dx.doi.org/10.1561/100.00010037)", *Quarterly Journal of Political Science* 6, pp. 197-233.
 
@@ -225,7 +225,7 @@ Political Agency Gone Wrong
 
 \* Albertus, Michael and Victor Menaldo (2014). "[Gaming Democracy: Elite Dominance During Transition and the Prospects for Redistribution](http://dx.doi.org/10.2139/ssrn.1520886)", *British Journal of Political Science* 44 (3), pp. 575-603.
 
-\* Acemoglu, Daron, Thierry Verdier and James A. Robinson (2004). "[Kleptocracy and Divide-and-Rule: A Model of Personal Rule](https://doi.org/10.1162/154247604323067916)", The Alfred Marshall Lecture, *Journal of the European Economic Association Papers and Proceedings* 2 (2-3), pp. 162-192.
+\* Acemoglu, Daron, Thierry Verdier and James A. Robinson (2003). "[Kleptocracy and Divide-and-Rule: A Model of Personal Rule](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=476093#:~:text=Many%20developing%20countries%20have%20suffered,their%20own%20glorification%20or%20consumption.)." NBER Working Paper No. w10136.
 
 \* Padro ì Miquel, Gerard (2008). "[The Control of Politicians in Divided Societies: Politics of Fear](http://www.jstor.org/stable/4626180)", *Review of Economic Studies* 74 (4), pp. 1259-1274.
 
@@ -495,7 +495,7 @@ Can Stimulating Collective Actions Change Institutions?
 
 Fearon, James D., Macartan Humphreys, and Jeremy M. Weinstein (2015). "[How Does Development Assistance Affect Collective Action Capacity? Results from a Field Experiment in Post-Conﬂict Liberia](https://doi.org/10.1017/S0003055415000283)", *American Political Science Review* 109(3): 450-469.
 
-Humphreys, Macartan, Raul Sanchez de la Sierra, and Peter van der Windt (2015). "[Social Engineering In The Tropics: Null Evidence from a Grassroots Democratization Experiment in East Congo](http://www.columbia.edu/~mh2245/papers1/20150519%20HSW.pdf)". 
+Humphreys, Macartan, Raul Sanchez de la Sierra, and Peter van der Windt (2015). "[Social Engineering In The Tropics: Null Evidence from a Grassroots Democratization Experiment in East Congo](https://dokumen.tips/documents/social-engineering-in-the-tropics-a-grassroots-mh2245papers120150519-hswpdf.html?page=1)". 
 
 {{< tdclose >}}{{< tdopen >}}
  
