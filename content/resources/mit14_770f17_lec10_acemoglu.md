@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-770-introduction-to-political-economy-fall-2017/2493789f371cd7d739241d042fd54601_MIT14_770F17_lec10_acemoglu.pdf
+file_size: 479464
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
