@@ -369,7 +369,7 @@ Durante, Ruben and Ekaterina Zhuravskaya (2018). ["Attack When the World Is Not 
 
 Hsiang, Solomon M., Marshall Burke and Edward Miguel (2013). "[Quantifying the Inﬂuence of Climate on Human Conﬂict](https://doi.org/10.1126/science.1235367)", *Science* 341 (6151).
 
-Bazzi, Samuel and Matthew Gudgeon (2016). "[Local Government Proliferation, Diversity, and Conﬂict](https://ideas.repec.org/p/hic/wpaper/205.html)".
+Bazzi, Samuel and Matthew Gudgeon (2016). "[Local Government Proliferation, Diversity, and Conﬂict](https://www.bu.edu/econ/files/2016/04/BazziGudgeon_Manuscript.pdf)".
 
 Dell, Melissa (2015). "[Trafficking Networks and the Mexican Drug War](http://www.jstor.org/stable/43495438)", *American Economic Review* 105 (6): 1738-1779.
 
