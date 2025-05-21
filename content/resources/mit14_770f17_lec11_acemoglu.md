@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/14-770-introduction-to-political-economy-fall-2017/df983239679d7ac3d6338df32a33e70f_MIT14_770F17_lec11_acemoglu.pdf
+file: /courses/14-770-introduction-to-political-economy-fall-2017/df983239679d7ac3d6338df32a33e70f_MIT14_770F17_lec11_acemoglu.pdf
 file_size: 282345
 file_type: application/pdf
 learning_resource_types:
