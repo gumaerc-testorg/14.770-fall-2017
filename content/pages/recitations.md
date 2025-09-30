@@ -43,7 +43,7 @@ Review of the first lecture and concepts; the Gibbard-Satterthwaite theorem
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Review of the second and third lectures; [Feddersen and Pesendorfer (ASPR, 1998)](http://www.jstor.org/stable/2585926)
+Review of the second and third lectures; {{% resource_link "ed35a986-5d46-4d3c-b5e3-be5159e31a57" "Feddersen and Pesendorfer (ASPR, 1998)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{% resource_link 6282e81b-3841-25a3-4c80-7651d2065c9f "Recitation 2 Notes (PDF)" %}}
@@ -55,7 +55,7 @@ Review of the second and third lectures; [Feddersen and Pesendorfer (ASPR, 1998)
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Discussion of "[Democracy for Realists: Why Elections Do Not Produce Responsive Government](https://press.princeton.edu/titles/10671.html)" by Achen and Bartels.
+Discussion of "{{% resource_link "856839ef-1fbc-44ab-9c10-acd05ccffd2c" "Democracy for Realists: Why Elections Do Not Produce Responsive Government" %}}" by Achen and Bartels.
 {{< tdclose >}}
 {{< tdopen >}}
 {{% resource_link 6cca298f-4e90-8a7d-57fd-4564eab0ac48 "Recitation 3 Notes (PDF)" %}}
@@ -67,7 +67,7 @@ Discussion of "[Democracy for Realists: Why Elections Do Not Produce Responsive 
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Review of this week's class; another take on [Acemoglu, Golosov, and Tsyvinski (2008 Econometrica)](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0262.2008.00849.x); theoretical model of [Ferraz and Finan (2011, AER)](https://academic.oup.com/qje/article/123/2/703/1930865)
+Review of this week's class; another take on {{% resource_link "d9a62460-8161-4efc-bd06-a1d9d0a55697" "Acemoglu, Golosov, and Tsyvinski (2008 Econometrica)" %}}; theoretical model of {{% resource_link "f5d19c4f-95cf-43f8-af09-e674c2f40b95" "Ferraz and Finan (2011, AER)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{% resource_link ca5aa82b-672e-6e51-edab-07f4b1284360 "Recitation 4 Notes (PDF)" %}}
@@ -103,7 +103,7 @@ Markov Perfect Equilibrium; discussion of why dynamic games is different from re
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Discussion and review of "[The Inefficient Use of Costly Conflict with Complete Information](https://www.jstor.org/stable/4145309)" Powell (2004, APSR)
+Discussion and review of "{{% resource_link "82555bc9-b100-44fd-b284-77ddebdd6b74" "The Inefficient Use of Costly Conflict with Complete Information" %}}" Powell (2004, APSR)
 {{< tdclose >}}
 {{< tdopen >}}
 {{% resource_link 4151fd2f-437a-7976-cda4-e1482290da00 "Recitation 7 Notes (PDF)" %}}
